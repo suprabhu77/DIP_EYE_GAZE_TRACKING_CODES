@@ -118,3 +118,4 @@ class EPOG(object):
             screen_x, screen_y = self.pog.point_of_gaze(self.webcam_estate)
 
         return screen_x, screen_y
+        
