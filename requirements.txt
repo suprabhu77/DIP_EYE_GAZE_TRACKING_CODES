@@ -1,0 +1,7 @@
+mkl
+cmake
+boost
+scipy
+numpy==1.16.1
+opencv-python==3.4.5.20
+dlib===19.16.0
